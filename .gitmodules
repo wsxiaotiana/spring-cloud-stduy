@@ -1,3 +1,6 @@
 [submodule "springboot-demo"]
 	path = springboot-demo
 	url = https://github.com/wsxiaotiana/springboot-demo.git
+[submodule "redis-lua-limiter-demo"]
+	path = redis-lua-limiter-demo
+	url = https://github.com/wsxiaotiana/redis-lua-limiter-demo.git
